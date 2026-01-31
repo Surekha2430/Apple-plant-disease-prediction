@@ -26,4 +26,5 @@ Apple leaf images dataset with different disease classes and healthy leaves.
 
 # Output
 The model predicts whether the apple leaf is healthy or affected by a disease
-Note:The trained model file is not uploaded due to github file size limitations
+# Note
+The trained model file is not uploaded due to github file size limitations
