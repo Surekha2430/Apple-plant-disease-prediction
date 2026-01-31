@@ -1,0 +1,9 @@
+# The requirements that are used for plant disease prediction project
+streamlit
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+pillows
+scikit-learn
